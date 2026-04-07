@@ -1,0 +1,9 @@
+{
+  "name": "GroundItemCleanerV6",
+  "version_number": "6.0.0",
+  "website_url": "",
+  "description": "Ultra optimized server-side ground item cleanup mod for Valheim",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
